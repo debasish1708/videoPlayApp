@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard"
+    },
+    {
+      "url": "/videos",
+      "icon": "menu-icon tf-icons ti ti-video",
+      "name": "Videos",
+      "slug": "videos"
+    },
+    {
+      "url": "/banners",
+      "icon": "menu-icon tf-icons ti ti-photo",
+      "name": "Banners",
+      "slug": "banners"
+    },
+    {
+      "url": "/customer-support",
+      "icon": "menu-icon tf-icons ti ti-headset",
+      "name": "Help & Support",
+      "slug": "customer-support"
+    }
+  ]
+}
