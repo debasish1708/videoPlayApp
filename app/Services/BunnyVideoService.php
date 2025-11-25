@@ -84,7 +84,7 @@ class BunnyVideoService
 
             return $response->successful();
         } catch (\Exception $e) {
-            \Log::error("Bunny update video title failed: " . $e->getMessage());
+            info("Bunny update video title failed: " . $e->getMessage());
             return false;
         }
     }
